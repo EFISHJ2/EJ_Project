@@ -1,0 +1,16 @@
+---
+title: "EJ_Project"
+author: "Elijah St. Pierre"
+format: html
+editor: visual
+---
+
+## EJ Attempt at Pushing and Pulling
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(forcats)
+
+
+```
